@@ -1,0 +1,65 @@
+backups
+# Ignore Visual Studio files
+# User-specific files
+/*.suo
+*.user
+*.userosscache
+*.sln.docstates
+Properties
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+# Roslyn cache directories
+*.ide/
+.vs
+
+# Ignore Visual Studio files
+*.obj
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.scc
+*.dbmdl
+*.sln.ide
+[Bb]in
+[Dd]ebug*/
+[Oo]bj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+TestsResult.html
+[Bb]uild[Ll]og.*
+*.[Pp]ublish.xml
+[Tt]humbs.db
+
+# Idea
+.idea
+
+# NuGet
+/packages/
+
+
+# Build
+/artifacts/
